@@ -19,16 +19,22 @@ Image Bucket AI is a sleek, responsive web app that generates high-quality image
 <h2>🖼️ Live Demo</h2>
 
 
+
 https://github.com/user-attachments/assets/528a7896-30a4-40d6-811a-0cdf4facbb1c
 
 
 
 <h2>🚀 Tech Stack</h2>
+
 Frontend	API
+
 HTML5, CSS3 (custom + FontAwesome), JavaScript (Vanilla)	Hugging Face Inference API
 
 <h2>📸 Preview</h2>
+
 ![Screenshot 2025-07-07 114605](https://github.com/user-attachments/assets/dd81fd75-b665-48f2-9396-d4b18ba7e419)
+
+
 ![Screenshot 2025-07-07 114556](https://github.com/user-attachments/assets/6ef723d7-64b1-42b8-b10a-219c12c3ebf6)
 
 
